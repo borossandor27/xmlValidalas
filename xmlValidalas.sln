@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmlValidalas", "xmlValidalas\xmlValidalas.csproj", "{765D8C3D-1951-42FC-BD27-93CC49F5941C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765D8C3D-1951-42FC-BD27-93CC49F5941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D8C3D-1951-42FC-BD27-93CC49F5941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D8C3D-1951-42FC-BD27-93CC49F5941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D8C3D-1951-42FC-BD27-93CC49F5941C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5CA6FA7-4D5B-4372-A920-FD32A33B9239}
+	EndGlobalSection
+EndGlobal
