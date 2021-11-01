@@ -9,6 +9,7 @@ using System.IO;
 
 namespace navSzamlaValidalas
 {
+    //-- https://onlineszamla.nav.gov.hu/dokumentaciok
     class Program
     {
         static string szamlakHelye = "PeldaSzamlak";
