@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://schemas.nav.gov.hu/NTCA/1.0/common"
+    elementFormDefault="qualified"
+    attributeFormDefault="unqualified">
+  <xs:include schemaLocation="common.xsd"/>
+  <xs:import  schemaLocation="invoiceBase.xsd"      namespace="http://schemas.nav.gov.hu/OSA/3.0/base"/>
+  <xs:import  schemaLocation="invoiceAnnulment.xsd" namespace="http://schemas.nav.gov.hu/OSA/3.0/annul"/>
+  <xs:import  schemaLocation="invoiceApi.xsd"       namespace="http://schemas.nav.gov.hu/OSA/3.0/api"/>
+  <xs:import  schemaLocation="invoiceData.xsd"      namespace="http://schemas.nav.gov.hu/OSA/3.0/data"/>
+  <xs:import  schemaLocation="serviceMetrics.xsd"   namespace="http://schemas.nav.gov.hu/OSA/3.0/metrics"/>
+</xs:schema>

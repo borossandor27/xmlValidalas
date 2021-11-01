@@ -8,7 +8,7 @@
     <price>8.99</price>
   </book>
   <book genre="novel" publicationdate="1967-11-17" ISBN="0-201-63361-2">
-  <!--  <title>The Confidence Man</title> -->
+    <title>The Confidence Man</title>
     <author>
       <first-name>Herman</first-name>
       <last-name>Melville</last-name>

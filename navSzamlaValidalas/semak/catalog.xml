@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://schemas.nav.gov.hu/NTCA/1.0/common" uri="common.xsd">
+  <system systemId="http://schemas.nav.gov.hu/OSA/3.0/base"    uri="invoiceBase.xsd">
+  <system systemId="http://schemas.nav.gov.hu/OSA/3.0/annul"   uri="invoiceAnnulment.xsd">
+  <system systemId="http://schemas.nav.gov.hu/OSA/3.0/api"     uri="invoiceApi.xsd">
+  <system systemId="http://schemas.nav.gov.hu/OSA/3.0/data"    uri="invoiceData.xsd">
+  <system systemId="http://schemas.nav.gov.hu/OSA/3.0/metrics" uri="serviceMetrics.xsd">
+  <public publicId="http://schemas.nav.gov.hu/NTCA/1.0/common" uri="common.xsd">
+  <public publicId="http://schemas.nav.gov.hu/OSA/3.0/base"    uri="invoiceBase.xsd">
+  <public publicId="http://schemas.nav.gov.hu/OSA/3.0/annul"   uri="invoiceAnnulment.xsd">
+  <public publicId="http://schemas.nav.gov.hu/OSA/3.0/api"     uri="invoiceApi.xsd">
+  <public publicId="http://schemas.nav.gov.hu/OSA/3.0/data"    uri="invoiceData.xsd">
+  <public publicId="http://schemas.nav.gov.hu/OSA/3.0/metrics" uri="serviceMetrics.xsd">
+</catalog>
